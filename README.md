@@ -1,12 +1,12 @@
 # Hola! Soy Juan López!     
 
 🧑‍💻 Sobre mí
-Actualmente estudio 2º de Desarrollo de Aplicaciones Web en el instituto MEDAC DAVANTE.
+Actualmente graduado del grado superior de Desarrollo de Aplicaciones Web en el instituto MEDAC DAVANTE.
 
 🛠️ Stack Tecnológico & Habilidades
 Desarrollo & Datos:
 
-Frontend: Conocimientos de HTML5 y CSS3.
+Frontend: Conocimientos de HTML5, CSS3, JavaScript.
 
 Bases de Datos: Creación y administración de bases de datos SQL.
 
